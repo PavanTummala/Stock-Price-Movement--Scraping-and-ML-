@@ -1,0 +1,27 @@
+# Core data science packages
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+
+# Natural Language Processing
+nltk==3.8.1
+transformers==4.30.2
+vaderSentiment==3.3.2
+
+# Data collection
+praw==7.7.1
+yfinance==0.2.22
+
+# Machine Learning
+xgboost==1.7.5
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==6.5.4
+
+# Optional - for faster BERT inference
+torch==2.0.1
